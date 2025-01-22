@@ -1,0 +1,63 @@
+Étape 1 : Modélisation du graphe orienté pondéré
+
+Définir les classes pour représenter le graphe.
+Implémenter les fonctionnalités suivantes :
+Constructeurs pour créer un graphe vide ou à partir d'un fichier texte.
+Redimensionner le nombre de sommets.
+Récupérer le nombre de sommets et d'arcs.
+Ajouter/retirer des arcs avec poids.
+Tester l'existence d'un arc.
+Récupérer le poids d'un arc.
+Récupérer les successeurs, prédécesseurs et voisins d'un sommet.
+Sauvegarder le graphe dans un fichier texte.
+
+
+
+Étape 2 : Création du diagramme de classes UML
+
+Concevoir un diagramme de classes qui représente les relations entre les classes du graphe.
+Inclure les méthodes et attributs nécessaires pour chaque classe.
+
+
+
+Étape 3 : Lecture/écriture des fichiers texte
+
+Utiliser le module fs de Node.js pour lire et écrire des fichiers texte.
+Implémenter la lecture d'un fichier texte pour construire un graphe.
+
+
+
+Étape 4 : Implémentation en TypeScript
+
+Implémenter les classes et méthodes définies dans l'étape 1 en TypeScript.
+Assurer la cohérence entre le diagramme de classes et le code.
+
+
+
+Étape 5 : Algorithme de Dijkstra
+
+Implémenter l'algorithme de Dijkstra pour calculer les plus courts chemins dans le graphe.
+Créer une fonction prenant en paramètre un graphe et un sommet initial, et retournant un objet de type "Résultat".
+
+
+
+Étape 6 : Tests unitaires
+
+Créer des fichiers de tests unitaires pour vérifier le bon fonctionnement des classes et de l'algorithme de Dijkstra.
+Tester les différentes fonctionnalités du graphe et l'algorithme de Dijkstra avec des cas pertinents.
+
+
+
+Étape 7 : Gestion du dépôt Git
+
+Créer un dépôt Git privé pour collaborer sur le projet.
+Utiliser des messages de commit pertinents pour chaque étape de développement.
+Ajouter les enseignants comme collaborateurs du dépôt.
+Utiliser des tags pour marquer les différentes étapes du développement.
+
+
+Étape 8 : Documentation et adaptabilité
+
+Rédiger un rapport succinct expliquant les choix de conception et d'implémentation.
+Assurer que le code est bien commenté pour une meilleure compréhension.
+Concevoir le code de manière à être facilement adaptable pour de futurs développements lors de la SAE.

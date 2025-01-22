@@ -1,0 +1,15 @@
+Plus court chemin:
+Sommet: 0, Distance: 0
+Sommet: 1, Distance: 5
+Sommet: 2, Distance: 3
+Sommet: 3, Distance: 5
+Sommet: 4, Distance: 9
+Sommet: 5, Distance: 9
+
+Prédecesseurs:
+Sommet: 0, Prédecesseur: null
+Sommet: 1, Prédecesseur: 0
+Sommet: 2, Prédecesseur: 0
+Sommet: 3, Prédecesseur: 2
+Sommet: 4, Prédecesseur: 2
+Sommet: 5, Prédecesseur: 3
